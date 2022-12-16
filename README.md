@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Baris Emre Yalcin.
-- 👀 I’m interested in Web Design.
-- 🌱 I’m currently learning Front-end Technologies such as HTML, CSS, and JavaScript.
-- 💞️ I’m looking for people who can give me a  Jr Front-end Developer job. I am so willing to continue my career in this field.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m improving myself in Front-end Technologies such as HTML, CSS, and JavaScript.
+- 💞️ I’m looking for people who can give me a Jr Front-end Developer job. I am so willing to continue my career in this field.
 - 📫 How to reach me: barisemre.bey@gmail.com
 
 <!---
