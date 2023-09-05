@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baris Emre Yalcin.
 - 👀 I’m interested in Web Development.
-- 💻 I’m using Front-end Technologies and Libraries such as HTML, CSS, SCSS, Bootstrap and JavaScript.
+- 💻 I’m using Front-end Technologies and Libraries such as HTML, CSS, SCSS, Bootstrap, JavaScript, and React.
 - 💼 I’m open to work in Front-End Developer role.
 - 📩 How to reach me: barisemre.bey@gmail.com
 
